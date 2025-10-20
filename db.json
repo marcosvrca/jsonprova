@@ -1,0 +1,5 @@
+{
+ "elementos": ["Hidrogenio", "Litio","Sódio", "Potássio", "Rubídio", "Césio", "Frâncio"],
+ "simbolos":["H", "Li", "Na", "K", "Rb", "Cs", "Fr"],
+ "atomicos": ["1", "3", "11", "19", "37", "55", "87"]
+}
